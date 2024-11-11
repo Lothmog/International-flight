@@ -2,7 +2,7 @@ html{
     align-content: center;
     max-width: 100%;
     min-height: auto;
-    background-image:url("/img/map.webp");
+    background-image:url("./img/map.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
